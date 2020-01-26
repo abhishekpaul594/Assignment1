@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.mycompany_Assignment1_jar_1.0-SNAPSHOT" duration-ms="62038" started-at="2020-01-26T20:59:17Z" finished-at="2020-01-26T21:00:19Z">
+    <groups>
+    </groups>
+    <test name="iPhonePriceComparison" duration-ms="62038" started-at="2020-01-26T20:59:17Z" finished-at="2020-01-26T21:00:19Z">
+      <class name="com.pricecomparison.testpackage.PriceComparisonTest">
+        <test-method status="PASS" signature="launchMethod()" name="launchMethod" is-config="true" duration-ms="8668" started-at="2020-01-26T20:59:17Z" finished-at="2020-01-26T20:59:26Z">
+        </test-method>
+        <test-method status="PASS" signature="getAmazonPrice()" name="getAmazonPrice" duration-ms="27755" started-at="2020-01-26T20:59:26Z" finished-at="2020-01-26T20:59:53Z">
+        </test-method>
+        <test-method status="PASS" signature="getFlipkartPrice()" name="getFlipkartPrice" duration-ms="18251" started-at="2020-01-26T20:59:53Z" finished-at="2020-01-26T21:00:12Z">
+        </test-method>
+        <test-method status="PASS" signature="priceComparison()" name="priceComparison" duration-ms="15" started-at="2020-01-26T21:00:12Z" finished-at="2020-01-26T21:00:12Z">
+        </test-method>
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="7329" started-at="2020-01-26T21:00:12Z" finished-at="2020-01-26T21:00:19Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

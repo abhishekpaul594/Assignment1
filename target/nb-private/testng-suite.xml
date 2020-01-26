@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.mycompany_Assignment1_jar_1.0-SNAPSHOT">
+
+    <test name="iPhonePriceComparison" preserve-order="true">
+        <classes>
+            <class name="com.pricecomparison.testpackage.PriceComparisonTest">
+                <methods>
+                    <include name="getAmazonPrice" />
+                    <include name="getFlipkartPrice" />
+                    <include name="priceComparison"/>
+                </methods>
+            </class>
+        </classes>
+    </test> 
+</suite>

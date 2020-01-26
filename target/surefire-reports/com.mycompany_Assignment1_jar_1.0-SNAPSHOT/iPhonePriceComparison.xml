@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Abhishek" name="com.pricecomparison.testpackage.PriceComparisonTest" tests="3" failures="0" timestamp="26 Jan 2020 15:30:22 GMT" time="62.038" errors="0">
+  <testcase name="getAmazonPrice" time="27.755" classname="com.pricecomparison.testpackage.PriceComparisonTest"/>
+  <testcase name="getFlipkartPrice" time="18.251" classname="com.pricecomparison.testpackage.PriceComparisonTest"/>
+  <testcase name="priceComparison" time="0.015" classname="com.pricecomparison.testpackage.PriceComparisonTest"/>
+</testsuite>

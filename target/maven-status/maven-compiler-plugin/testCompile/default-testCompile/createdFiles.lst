@@ -1,0 +1,7 @@
+com\pricecomparison\pagelevelmodule\FlipkartPageModule.class
+com\pricecomparison\beforetestmethods\BeforeTestMethods.class
+com\pricecomparison\pages\FlipkartPageElement$FlipkartHomePage.class
+com\pricecomparison\pagelevelmodule\AmazonPageModule.class
+com\pricecomparison\pagelevelmodule\GenericModule.class
+com\pricecomparison\testpackage\PriceComparisonTest.class
+com\pricecomparison\pages\FlipkartPageElement.class
